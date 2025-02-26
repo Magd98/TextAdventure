@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|d:\\unity projects\\textadventure\\textadventure\\assets\\scripts\\roomnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|d:\\unity projects\\textadventure\\textadventure\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\roomnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|d:\\unity projects\\textadventure\\textadventure\\assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:16:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RoomNavigation.cs",
               "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\RoomNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoomNavigation.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Assets\\Scripts\\RoomNavigation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:15:52.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T16:15:52.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Room.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Room.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:14:13.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T15:14:13.23Z"
             }
           ]
         }
