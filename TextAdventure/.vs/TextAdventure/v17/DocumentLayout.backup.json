@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|d:\\unity projects\\textadventure\\textadventure\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\roomnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\textinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\scriptableobjects\\rooms\\inputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\rooms\\inputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|d:\\unity projects\\textadventure\\textadventure\\assets\\scripts\\go.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\go.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2BF5179-E816-20A3-9807-466DC1D92F2C}|Assembly-CSharp.csproj|D:\\Unity Projects\\TextAdventure\\TextAdventure\\assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Go.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Go.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Go.cs",
+              "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Go.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Go.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:54:12.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputActions.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\ScriptableObjects\\Rooms\\InputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\Rooms\\InputActions.cs",
+              "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\ScriptableObjects\\Rooms\\InputActions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\Rooms\\InputActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:19:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextInput.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\TextInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextInput.cs",
+              "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\TextInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:56:51.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exit.cs",
+              "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:38:45.977Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +100,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
               "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T16:16:52.117Z",
               "EditorCaption": ""
@@ -45,19 +113,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoomNavigation.cs",
               "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\RoomNavigation.cs",
               "RelativeToolTip": "Assets\\Scripts\\RoomNavigation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:15:52.36Z"
+              "WhenOpened": "2025-02-26T16:15:52.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Room.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Room.cs",
               "ToolTip": "D:\\Unity Projects\\TextAdventure\\TextAdventure\\Assets\\Scripts\\Room.cs",
               "RelativeToolTip": "Assets\\Scripts\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:14:13.23Z"
             }
